@@ -19,7 +19,7 @@ Utiliza el símbolo de numeral `#` seguido de un espacio. La cantidad de numeral
 \## Subtítulo (H2) <br>
 \### Sección más pequeña (H3) <br>
 
-![Titulos](../sources/img/README/titulos.png)
+![Titulos](/Readme/images/titulos.png)
 
 ### Enfasis en el texto (Parrafos)
 
@@ -47,7 +47,7 @@ Esas cajas de colores con iconos que ves en GitHub para dejar notas, advertencia
 \> [!IMPORTANT]
 \> Información crucial morada para el usuario.
 
-![Alerts](../sources/img/README/Alerts.png)
+![Alerts](/Readme/images/Alerts.png)
 
 ### Bloques de codigo y comandos
 
@@ -102,7 +102,7 @@ La sintaxis es casi idéntica, pero las imágenes llevan un signo de exclamació
 
 \!\[Texto alternativo de la imagen](url-de-la-imagen)
 
-![Texto alternativo de la imagen](../sources/img/README/exampleJPG.jpg)
+![Texto alternativo de la imagen](/Readme/images/exampleJPG.jpg)
 
 ### Scape
 
