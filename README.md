@@ -19,7 +19,20 @@
 - [Environment Varibles](/GeneralKnowledge/EnvironmentVariables.md)
 - [Ports](/GeneralKnowledge/Ports.md)
 - [Websockets](/GeneralKnowledge/Websockets.md)
+- [JSON](/GeneralKnowledge/JSON.md)
 
 - ## APIs
 
 - [API](/APIs/API.md)
+
+## Desarrollo de Software
+
+- [CI/CD](/Desarrollo-de-Software/CI-CD.md)
+
+## Pendientes
+
+- Metodos HTTP
+- Codigos de estado en una api
+- REACT & Vite (que son los Linter)
+- Buenas practicas (Estrucutracion de carpetas, nombrar variables, escribir un README, nombrar archivos, commits)
+- Que es DOM
