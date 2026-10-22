@@ -37,4 +37,4 @@
 
 - REACT & Vite (que son los Linter)
 - Buenas practicas (Estrucutracion de carpetas, nombrar variables, escribir un README, nombrar archivos, commits)
-- Que es DOM
+- Framework
