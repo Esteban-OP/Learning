@@ -8,7 +8,7 @@ Libraries are generally more focused on providing solutions to specific tasks, s
 
 An example of this is the library jQuery
 
-> [!What is jQuery?]
+> [!NOTE]
 > Was widely used to simplify DOM manipulation, event handling, animations, effects and more.
 
 ## What are Frameworks?
