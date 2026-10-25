@@ -9,6 +9,9 @@ Libraries are generally more focused on providing solutions to specific tasks, s
 An example of this is the library jQuery
 
 > [!NOTE]
-> Was widely used to simplify DOM manipulation, event handling, animations, effects and more.
+> jQuery was widely used to simplify DOM manipulation, event handling, animations, effects and more.
 
 ## What are Frameworks?
+
+Frameworks provide a more defined structure for building applications. For example, Angular encourages a component-based architecture with a aet of conventions and toolls that provide a structure approach to organizing and building applications.
+
