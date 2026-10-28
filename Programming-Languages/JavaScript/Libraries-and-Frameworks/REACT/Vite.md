@@ -1,3 +1,7 @@
+# What is Vite?
+
+Vite is one of the most popular tools for setting up projects.Vite can be used with Reacct, as well as woth other libraries and frameworks like Vue or Svelte and it can even be used with vanilla JS projects.
+
 # Crear un proyeccto React con Vite
 
 Abrir la terminal en la carpeta donde se guardara el proyecto y ejecutar:
